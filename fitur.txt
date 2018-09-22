@@ -1,0 +1,45 @@
+peminjaman tempat/ruang
+1. penyelenggara
+2. lokasi
+3. status=>default(in proses) bon tempat(cek box)
+4. foto
+5. ruang
+6. jumlah peserta
+
+
+
+peminjaman perlengkapan
+1. no_surat
+2. nama_perlengkapan
+3. jumlah
+4. penanggung jawab(agus)
+5. acara
+6. nama-peminjam
+7. no hp
+8. alamat
+
+peminjaman mobil
+1. no_surat
+2. kendaraan
+3. waktu
+4. acara
+5. lokasi
+6. supir
+7. pemohon
+8. jumlah peserta
+9. status
+10. penanggung_jawab (haryono)
+
+supir
+1. nama
+2. no hp
+
+
+master perlengkapan
+tidak ada id ruang
+
+penanggung jawab
+1. agus perlengkapan
+2. haryono kendaraan
+3. nur subhan tempat
+
